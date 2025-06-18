@@ -1,7 +1,7 @@
 /** @module default-ui Provide a fake instagram UI. */
 
 /**
- *hello world bolera bolera boleraaa maya boleraa maya boler
+ *hello world bolera bolera boleraaa maya boleraa maya boler bijuli
  * @param {Document} document
  * @returns {HTMLDivElement}
  */
